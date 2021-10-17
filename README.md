@@ -21,3 +21,5 @@ To test the features of the website:
     5. Go to the highscore page to see if your highscore appears.
 
 If all tests are passed, then HOORAY!
+
+![](/assets/Screenshot(69).png "Code Quiz Website")
